@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Got 'Til It's Gone",
+  "base_artist": "Janet Jackson",
+  "createdAt": "2026-03-17T23:06:03.070315Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Got 'Til It's Gone",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/01_Got_'Til_It's_Gone_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Got ’til It’s Gone",
+      "artist": "Janet",
+      "has_synced": true,
+      "path": "select/02_Got_’til_It’s_Gone_Janet.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "GOT TIL ITS GONE",
+      "artist": "JANET JACKSON",
+      "has_synced": true,
+      "path": "select/03_GOT_TIL_ITS_GONE_JANET_JACKSON.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Got 'Til It's Gone",
+      "artist": "Janet",
+      "has_synced": true,
+      "path": "select/04_Got_'Til_It's_Gone_Janet.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Got 'Til Its Gone",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/05_Got_'Til_Its_Gone_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Got ’til It’s Gone",
+      "artist": "Janet Jackson",
+      "has_synced": true,
+      "path": "select/06_Got_’til_It’s_Gone_Janet_Jackson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "GOT TIL IT'S GONE",
+      "artist": "JANET JACKSON",
+      "has_synced": true,
+      "path": "select/07_GOT_TIL_IT'S_GONE_JANET_JACKSON.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Got 'Til It's Gone",
+      "artist": "Q-Tip",
+      "has_synced": true,
+      "path": "select/08_Got_'Til_It's_Gone_Q-Tip.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Got 'Til It's Gone",
+      "artist": "Janet Jackson",
+      "has_synced": false,
+      "path": "select/pl_01_Got_'Til_It's_Gone_Janet_Jackson.txt"
+    }
+  ]
+}
